@@ -10,7 +10,7 @@ By leveraging **machine learning models** and **data-driven insights**, the proj
 - ✅ Performed **data preprocessing** (missing value handling, encoding categorical variables, scaling).  
 - ✅ Conducted **exploratory data analysis (EDA)** using Matplotlib & Seaborn to identify patterns in age, income, job, housing, savings, and credit amount.  
 - ✅ Implemented multiple **ML algorithms** — Logistic Regression, Decision Tree, Random Forest, Extra Trees, KNN, and XGBoost.  
-- ✅ Applied **GridSearchCV & RandomizedSearchCV** for hyperparameter optimization.  
+- ✅ Applied **GridSearchCV ** for hyperparameter optimization.  
 - ✅ Evaluated models using **accuracy, confusion matrix, classification reports, and ROC-AUC curves**.  
 - ✅ Identified **XGBoost** as the best-performing model with an accuracy of **66.7%**.  
 
@@ -20,10 +20,10 @@ By leveraging **machine learning models** and **data-driven insights**, the proj
 | Model              | Accuracy |
 |--------------------|----------|
 | XGBoost            | 66.7%    |
-| Extra Trees        | 64.8%    |
-| Random Forest      | 61.9%    |
-| Decision Tree      | 58.9%    |
-
+| Extra Trees        | 65.7%    |
+| Random Forest      | 63.8%    |
+| Decision Tree      | 60.9%    |
+| Neural Networks    | 56.1%    |
 ---
 
 ## 🛠️ Tech Stack  
